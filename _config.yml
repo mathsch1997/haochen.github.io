@@ -30,7 +30,7 @@ author:
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "mathsch@mail.ustc.edu.cn" 
+  email            : #"mathsch@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
