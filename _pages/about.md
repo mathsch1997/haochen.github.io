@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Hao Chen's Home page"
-excerpt: "Chen(陈), Hao(昊)"
+title: "Hao Chen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,5 +13,7 @@ My research interest includes Extremal Combinatorics, Graph Theory and Graph Lim
 You can find my CV here: [CV](../assets/CV.pdf).
 
 E-mail: mathsch@mail.ustc.edu.cn
+
+---
 
 
