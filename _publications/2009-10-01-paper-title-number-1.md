@@ -1,5 +1,5 @@
 ---
-title: "[A property on monochromatic copies of graphs containing a triangle](https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec)"
+title: "A property on monochromatic copies of graphs containing a triangle"
 collection: publications
 #category: manuscripts
 #permalink: https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec
