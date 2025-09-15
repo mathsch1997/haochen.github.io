@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hao Chen's Homepage"
+title: "Hao Chen's Home page"
+excerpt: "Chen(陈), Hao(昊)"
 author_profile: true
 redirect_from: 
   - /about/
