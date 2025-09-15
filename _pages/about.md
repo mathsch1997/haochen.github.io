@@ -10,7 +10,7 @@ I am a Ph.D student at the [School of Mathematical Sciences, University of Scien
 
 My research interest includes Extremal Combinatorics, Graph Theory and Graph Limits.
 
-You can find my CV here: [CV].
+You can find my CV here: [CV](../assets/CV.pdf).
 
 E-mail: (mathsch@mail.ustc.edu.cn)
 
