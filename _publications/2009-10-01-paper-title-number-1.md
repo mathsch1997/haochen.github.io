@@ -4,8 +4,8 @@ collection: publications
 #category: manuscripts
 permalink: https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec
 excerpt: '(with Jie Ma)'
-date: 2024
-venue: 'SIAM J. Discrete Math. 38(1)'
+#date: 2024
+venue: 'SIAM J. Discrete Math. 38(1), 316-326 (2024)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf' 
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
