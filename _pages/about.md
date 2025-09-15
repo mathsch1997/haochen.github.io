@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D student at the [School of Mathematical Sciences, University of Science and Technology of China (USTC)](https://math.ustc.edu.cn/main.htm) under the supervision of Prof. [Jie Ma](http://staff.ustc.edu.cn/~jiema/). From 2024 to 2025, I am a visting Ph.D student at the Department of Mathematics and Statistics, University of Victoria (UVic)(https://www.uvic.ca/science/math-statistics/index.php) in Canada under Prof. [Jonathan. A. Noel](https://jonathannoel.ca/). In 2019, I completed my B.Sc at the [School of Mathematical Sciences, Soochow University](https://math.suda.edu.cn/) under the supervision of Prof. [Lijun Ji](https://web.suda.edu.cn/jilijun/).
+I am a Ph.D student at the [School of Mathematical Sciences, University of Science and Technology of China (USTC)](https://math.ustc.edu.cn/main.htm) under the supervision of Prof. [Jie Ma](http://staff.ustc.edu.cn/~jiema/). From 2024 to 2025, I am a visting Ph.D student at [the Department of Mathematics and Statistics, University of Victoria (UVic)](https://www.uvic.ca/science/math-statistics/) in Canada under Prof. [Jonathan. A. Noel](https://jonathannoel.ca/). In 2019, I completed my B.Sc at the [School of Mathematical Sciences, Soochow University](https://math.suda.edu.cn/) under the supervision of Prof. [Lijun Ji](https://web.suda.edu.cn/jilijun/).
 
 My research interest includes Extremal Combinatorics, Graph Theory and Graph Limits.
 
 You can find my CV here: [CV](../assets/CV.pdf).
 
-E-mail: (mathsch@mail.ustc.edu.cn)
+E-mail: mathsch@mail.ustc.edu.cn
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
