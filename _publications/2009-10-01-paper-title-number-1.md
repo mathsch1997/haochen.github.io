@@ -1,8 +1,8 @@
 ---
-title: "A property on monochromatic copies of graphs containing a triangle"
+title: "[A property on monochromatic copies of graphs containing a triangle](https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec)"
 collection: publications
 #category: manuscripts
-permalink: https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec
+#permalink: https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec
 excerpt: '(with Jie Ma)'
 #date: 2024
 venue: 'SIAM J. Discrete Math. 38(1), 316-326 (2024)'
